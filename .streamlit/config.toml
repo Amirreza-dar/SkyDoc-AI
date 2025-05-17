@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#ADD8E6"           # Your accent color (e.g., light blue)
+backgroundColor="#191970"          # THE DARK BLUE for main page background
+secondaryBackgroundColor="#F0F8FF"  # LIGHT color for sidebar background (e.g., AliceBlue or white #FFFFFF)
+textColor="#FFFFFF"                  # White text for the MAIN page (to show on dark blue background)
+font="sans serif"
